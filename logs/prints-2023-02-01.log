@@ -1,0 +1,8 @@
+06:01:45.593 [main] INFO  57ogger - 10013
+06:01:45.609 [main] INFO  58ogger - THIS IS A MESSAGE FROM MAIN2
+06:20:05.974 [main] INFO  41ogger - HOST INFORMATION = https://weather.visualcrossing.com
+06:20:10.228 [main] INFO  79ogger - THIS IS A TEST FROM MAIN
+06:20:10.244 [main] INFO  35ogger - HOST INFORMATION = http://localhost:8080
+06:20:12.307 [main] INFO  57ogger - 10016
+06:20:12.307 [main] INFO  58ogger - THIS IS A MESSAGE FROM MAIN2
+06:20:59.563 [main] INFO  41ogger - HOST INFORMATION = https://weather.visualcrossing.com
